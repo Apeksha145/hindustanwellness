@@ -56,14 +56,13 @@ h1,h2,h3,h4,h5,h6{font-family:Arial;font-weight:bold;}
 @media only screen and (min-device-width:320px) and (max-device-width:767px)
 {
 	h4{font-size:15px;}
-	h5{font-size:9px;}
+	h5{font-size:23px;}
 	h3{font-size:17px;}
 	p{font-size:8px;}
 	.L1 img{padding-top:13px;}
 	.L1 .call ,h4  h5{font-size:18px;text-align:right;}
 	.c1{margin-top: -70px;}
-	.media-body h6{font-weight: bold;
-    font-size: 10px;}
+	.media-body h6{font-weight: bold;font-size:9px;}
 	.c2{margin-top:-65px;position: absolute;}
 	.table{font-size:10px;}
 	.hc h3 {
@@ -71,12 +70,16 @@ h1,h2,h3,h4,h5,h6{font-family:Arial;font-weight:bold;}
     font-size: 12px;}
 	.l1{font-size:9px;margin:0;}
 	.l3{background-color:#727271;border-radius:20px;font-size:8px;}
-
+	.frm{position:relative;top:-73px;}
+	.c2 {
+    margin-top: 245px;
+    position: absolute;}
+.bg-light1 {background-color:white;}
+.c2 h5{color:#C71106;}
 }
 @media only screen and (min-device-width:320px) and (max-device-width:354px)
 {
-	.media-body h6{font-weight: bold;
-    font-size:7px;}
+	.media-body h6{font-weight: bold;font-size:8px;}
 	.l2
 	{
     font-weight: bold;
@@ -96,5 +99,7 @@ h1,h2,h3,h4,h5,h6{font-family:Arial;font-weight:bold;}
 	.hc h3 {
     margin: 0;
     font-size:26px;}
-
+}
+.bg-light {
+    background-color: rgba(248, 249, 250, 0.8117647058823529) !important;
 }
