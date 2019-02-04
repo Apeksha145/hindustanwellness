@@ -97,14 +97,14 @@ h1,h2,h3,h4,h5,h6{font-family:Arial;font-weight:bold;}
 @media only screen and (min-device-width:375px) and (max-device-width:425px){
 	.c3 {
     position: absolute;
-    top: 221px;}	
+    top: 230px;}	
 }
 @media only screen and (min-device-width:426px) and (max-device-width:575px){
 	.c3 {
     position: absolute;
     top: 275px;}	
 	.c2 {
-    margin-top:230px;
+    margin-top:195px;
     position: absolute;
 }
 }
